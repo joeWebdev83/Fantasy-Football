@@ -1,10 +1,18 @@
 .jumbotron{
     width:100%;
-    height: 300px;
-    background-color:rgb(6, 6, 238);
+    height: 200px;
+    background-color:rgb(7, 187, 7);
     padding:0px;
     margin:0px;
     opacity: 0.7;
     text-align: center;
-    color: white;
+    color:rgb(5, 5, 5);
+    font-family: Verdana, sans-serif;
+    
+    
 }
+
+body {
+    background-image: url("https://i2.wp.com/www.letstalkfantasyfootball.com/wp-content/uploads/2016/11/StadiumBackground.jpg?w=1500&ssl=1");
+    
+  }
